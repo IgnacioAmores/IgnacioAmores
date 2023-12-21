@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hola, mi nombre es Ignacio Amores 👋
+### Software Developer trainee 🌱
+Actualmente estoy estudiando el módulo de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+
+En mi curriculum menciono que tengo sólida experiencia en sectores diversos como educación, aseguradoras, actividades deportivas y hostelería. Así ofrezco una perspectiva global al desarrollo de software. Mi habilidad para adaptarme y aprender rápidamente se ha demostrado en entornos variados. Busco aplicar mi creatividad y experiencias previas para aportar soluciones innovadoras al campo del desarrollo de software.
+
+Voy a ir creando un Portfolio con los proyectos más interesantes que vaya desarrollando.
 
 <!--
 **IgnacioAmores/IgnacioAmores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
